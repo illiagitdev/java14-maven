@@ -1,5 +1,5 @@
 package com.maven.practice;
 
-public class Config {
-    public static final String message = "Hello World!!!";
+public interface Config {
+    String message = "Hello World!!!";
 }
